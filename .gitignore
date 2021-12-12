@@ -1,3 +1,4 @@
 pics/
 .env
 .vscode/
+.DS_Store
